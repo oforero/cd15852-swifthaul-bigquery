@@ -1,0 +1,6 @@
+lane,shipments,avg_freight_cost_usd
+US-West -> US-Central,26786,304.43
+US-West -> US-East,26657,304.83
+US-South -> US-Central,26865,305.44
+APAC-South -> APAC-East,26722,305.78
+APAC-East -> APAC-South,26557,306.4

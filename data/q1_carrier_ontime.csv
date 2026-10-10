@@ -1,0 +1,7 @@
+carrier,shipments,on_time_rate,worst_month_rate,best_month_rate
+Skyliner Air,250025,0.9519,0.9482,0.9558
+SwiftHaul Ground,250269,0.9317,0.9269,0.9359
+MetroCourier,249964,0.9214,0.9174,0.925
+Continental Cargo,249989,0.8913,0.8869,0.8965
+BlueLine Freight,249669,0.8724,0.8621,0.8795
+OceanLink,250084,0.8118,0.7859,0.8186

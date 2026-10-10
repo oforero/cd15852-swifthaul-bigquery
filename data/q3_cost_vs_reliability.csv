@@ -1,0 +1,7 @@
+carrier,mode,shipments,on_time_rate,avg_cost_per_shipment_usd,avg_cost_per_kg_usd
+OceanLink,Ocean,250084,0.8118,166,2.8678
+SwiftHaul Ground,Ground,250269,0.9317,221.61,3.3736
+BlueLine Freight,Ground,249669,0.8724,243.28,3.514
+Continental Cargo,Ground,249989,0.8913,279.28,3.8263
+MetroCourier,Air,249964,0.9214,617.58,6.479
+Skyliner Air,Air,250025,0.9519,713.32,7.3136
