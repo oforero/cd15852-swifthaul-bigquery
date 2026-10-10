@@ -1,0 +1,7 @@
+.DS_Store
+*.json
+*.key
+*.pem
+.env
+*.csv
+*.csv.gz
